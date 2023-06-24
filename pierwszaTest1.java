@@ -3,5 +3,6 @@ public class pierwszaTest1 {
         byte x = 2;
         byte y = 4;
         System.out.println(x+y);
+        System.out.println(y-x);
     }
 }
